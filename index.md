@@ -2,7 +2,7 @@
 title: "Welcome to Kevin's blog"
 date: 2023-01-02
 ---
-<head style="background-image:url(../images/kwmPixelatedProfilePic.jpeg);
+<body style="background-image:url(../images/kwmPixelatedProfilePic.jpeg);
 		background-repeat:repeat;
 		background-attachment:fixed;
 		overflow:scroll;">
