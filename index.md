@@ -7,8 +7,6 @@ date: 2023-01-02
     list-style-type: none;
   }
 
-#bgActive {
-}
 
 body {
   background-image:url(images/kwmPixelatedProfilePic.jpeg);
@@ -36,7 +34,6 @@ thead, tbody, tr, td {
 
 </style>
 
-<div id="bgActive">
 
 |Kevin W. Mullet|PDF&nbsp;&#124;&nbsp;ASCII|
 |:=== | ===:|
@@ -77,5 +74,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac vulputate lore
 
 
 
-
-</div>
