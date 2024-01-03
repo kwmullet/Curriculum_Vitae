@@ -20,8 +20,17 @@ body {
   text-shadow: 2px 2px 3px black ;
 }
 
+thead, tbody, tr, td {
+  nth-child(even){background-color: #808B96}
+  border: 0 ;
+  margin: 0px 0px 0px ;
+  padding: 0px 0px 0px ;
+  color: white ;
+  text-shadow: 2px 2px 3px black ;
+}
+  
 table {
-  nth-child(first){background-color: #808B96}
+  nth-child(even){background-color: #808B96}
   width: 100%;
   border: 0 ;
   margin: 0px 0px 0px ;
@@ -29,14 +38,7 @@ table {
   color: white ;
   text-shadow: 2px 2px 3px black ;
 }
-thead, tbody, tr, td {
-  nth-child(first){background-color: #808B96}
-  border: 0 ;
-  margin: 0px 0px 0px ;
-  padding: 0px 0px 0px ;
-  color: white ;
-  text-shadow: 2px 2px 3px black ;
-}
+
 
 </style>
 
