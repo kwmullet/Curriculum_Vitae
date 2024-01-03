@@ -7,15 +7,6 @@ date: 2023-01-02
     list-style-type: none;
   }
 
-table, thead, tbody, tr, td {
-  width: 100%;
-  border: 0 ;
-  margin-top: 0px ;
-  margin-bottom: 0px ;
-  padding-top: 0px ;
-  padding-bottom: 0px ;
-  border-collapse: collapse ;
-}
 
 body {
   background-image:url(../images/kwmPixelatedProfilePic.jpeg);
@@ -26,18 +17,31 @@ body {
   background-blend-mode: multiply ;
   opacity: 1.0 ;
   color: white ;
-  text-shadow: 2px 2px 3px black 
+  text-shadow: 2px 2px 3px black ;
 }
+
+table,thead,tbody,tr,td {
+  width: 100%;
+  border: 0 ;
+  margin-top: 0px ;
+  margin-bottom: 0px ;
+  padding-top: 0px ;
+  padding-bottom: 0px ;
+  border-collapse: collapse ;
+}
+
+
+
 </style>
 
-| <h2>Kevin W. Mullet</h2> | PDF &#124; ASCII |
+|Kevin W. Mullet|PDF&nbsp;&#124;&nbsp;ASCII|
 | :--- | ---: |
 |sdfsdf |sdfsdf |
 
 
 
 ## Kevin W. Mullet 
-- &LT;kwm@themullets.net&GT;
+- &lt;kwm@themullets.net&gt;
 - Albuquerque, NM
 
 
