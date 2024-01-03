@@ -32,6 +32,8 @@ thead, tbody, tr, td {
   border: 0 ;
   margin: 0px 0px 0px ;
   padding: 0px 0px 0px ;
+  color: white ;
+  text-shadow: 2px 2px 3px black ;
 }
 
 </style>
