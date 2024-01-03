@@ -23,22 +23,22 @@ body {
 thead, tbody, tr, td {
   nth-child(even){background-color: #808B96}
   border: 0 ;
-  marrgin: 0px 0px 0px ;
-  paddding: 0px 0px 0px ;
-  color: white ;
   text-shadow: 2px 2px 3px black ;
+  color: white ;
 }
   
 table {
   nth-child(even){background-color: #808B96}
   width: 100%;
   border: 0 ;
-  marrgin: 0px 0px 0px ;
-  paddding: 0px 0px 0px ;
   color: white ;
   text-shadow: 2px 2px 3px black ;
 }
 
+  #tmp {
+    marrgin: 0px 0px 0px ;
+    paddding: 0px 0px 0px ;
+  }
 
 </style>
 
