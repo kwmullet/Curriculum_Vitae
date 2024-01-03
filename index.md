@@ -29,6 +29,7 @@ table {
   text-shadow: 2px 2px 3px black ;
 }
 thead, tbody, tr, td {
+  nth-child(first){background-color: #808B96}
   border: 0 ;
   margin: 0px 0px 0px ;
   padding: 0px 0px 0px ;
