@@ -36,7 +36,7 @@ thead, tbody, tr, td {
 
 
 |Kevin W. Mullet|PDF&nbsp;&#124;&nbsp;ASCII|
-|:=== | ===:|
+|:--- | ---:|
 |sdfsdf |sdfsdf |
 
 
