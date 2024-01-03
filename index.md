@@ -2,25 +2,12 @@
 title: First blog entry
 date: 2023-01-02
 ---
-
 <style>
-
   ul {
     list-style-type: none;
-    opacity: 1.0 ;
-    z-index: 2 ;
   }
 
-  html {
-    background-image:url(../images/kwmPixelatedProfilePic.jpeg);
-    background-color: #808B96 ;
-		background-attachment:fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-blend-mode: multiply ;
-    }
-
-table, th, tr, td {
+table, thead, tbody, tr, td {
   width: 100%;
   border: 0 ;
   margin-top: 0px ;
@@ -30,13 +17,19 @@ table, th, tr, td {
   border-collapse: collapse ;
 }
 
-
 body {
+  background-image:url(../images/kwmPixelatedProfilePic.jpeg);
+  background-color: #808B96 ;
+  background-attachment:fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply ;
   opacity: 1.0 ;
   color: white ;
   text-shadow: 2px 2px 3px black 
 }
-  </style>
+</style>
+
 | <h2>Kevin W. Mullet</h2> | PDF &#124; ASCII |
 | :--- | ---: |
 |sdfsdf |sdfsdf |
