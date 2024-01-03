@@ -21,6 +21,7 @@ body {
 }
 
 table {
+  nth-child(first){background-color: #808B96}
   width: 100%;
   border: 0 ;
   margin: 0px 0px 0px ;
