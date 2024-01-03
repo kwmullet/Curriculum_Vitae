@@ -8,27 +8,30 @@ date: 2023-01-02
   }
 
 #bgActive {
-  background-image:url(/images/kwmPixelatedProfilePic.jpeg);
-  background-color: #808B96 ;
+}
+
+body {
+  background-image:url(images/kwmPixelatedProfilePic.jpeg);
   background-attachment:fixed;
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: multiply ;
-}
-
-body {
+  background-color: #808B96 ;
   opacity: 1.0 ;
   color: white ;
   text-shadow: 2px 2px 3px black ;
 }
 
-table,thead,tbody,tr,td {
+table {
   width: 100%;
   border: 0 ;
-  margin-top: 0px ;
-  margin-bottom: 0px ;
-  padding-top: 0px ;
-  padding-bottom: 0px ;
+  margin: 0px 0px 0px ;
+  padding: 0px 0px 0px ;
+}
+thead, tbody, tr, td {
+  border: 0 ;
+  margin: 0px 0px 0px ;
+  padding: 0px 0px 0px ;
 }
 
 </style>
@@ -36,7 +39,7 @@ table,thead,tbody,tr,td {
 <div id="bgActive">
 
 |Kevin W. Mullet|PDF&nbsp;&#124;&nbsp;ASCII|
-| :--- | ---: |
+|:=== | ===:|
 |sdfsdf |sdfsdf |
 
 
