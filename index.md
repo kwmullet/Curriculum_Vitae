@@ -21,17 +21,15 @@ body {
 }
 
 thead, tbody, tr, td {
-  nth-child(even){background-color: #808B96}
+  nth-child(even){background-color: black}
   border: 0 ;
   text-shadow: 2px 2px 3px black ;
-  color: white ;
 }
   
-table {
-  nth-child(even){background-color: #808B96}
+table, thead, tr {
+  nth-child(even){background-color: black}
   width: 100%;
   border: 0 ;
-  color: white ;
   text-shadow: 2px 2px 3px black ;
 }
 
