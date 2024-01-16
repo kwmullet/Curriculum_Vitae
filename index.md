@@ -14,7 +14,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: multiply ;
-  background-color: rgba (0, 0, 0, 0) ;
+  background-color: rgba (0, 0, 0, 204) ;
   opacity: 1.0 ;
   color: white ;
   text-shadow: 2px 2px 3px black ;
