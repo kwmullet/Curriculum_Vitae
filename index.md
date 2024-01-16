@@ -14,19 +14,13 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: multiply ;
-  background-color: #808B96 ;
+  background-color: rgba (0, 0, 0, 0) ;
   opacity: 1.0 ;
   color: white ;
   text-shadow: 2px 2px 3px black ;
 }
-
-thead, tbody, tr, td {
-  nth-child(even){background-color: black}
-  border: 0 ;
-  text-shadow: 2px 2px 3px black ;
-}
   
-table, thead, tr {
+table {
   nth-child(even){background-color: rgba (0, 0, 0, 0) ; }
   background-color: rgba (0, 0, 0, 0);
   width: 100%;
