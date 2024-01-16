@@ -1,7 +1,7 @@
-# theme: minimal
+theme: midnight
 title: Curriculum Vitae, Kevin W. Mullet | 2024-01-16T12:14:46-07:00
 author: Kevin W. Mullet
 description: self-referential pages site
-remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
 github:
   is_project_page: false
