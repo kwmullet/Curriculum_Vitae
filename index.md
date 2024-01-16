@@ -27,7 +27,8 @@ thead, tbody, tr, td {
 }
   
 table, thead, tr {
-  nth-child(even){background-color: black}
+  nth-child(even){background-color: rgba (0, 0, 0, 0) ; }
+  background-color: rgba (0, 0, 0, 0);
   width: 100%;
   border: 0 ;
   text-shadow: 2px 2px 3px black ;
