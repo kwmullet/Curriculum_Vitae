@@ -1,7 +1,3 @@
----
-title: First blog entry
-date: 2023-01-02
----
 <style>
   ul {
     list-style-type: none;
