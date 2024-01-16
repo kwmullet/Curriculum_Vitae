@@ -20,8 +20,8 @@ body {
   text-shadow: 2px 2px 3px black ;
 }
   
-table {
-  nth-child(even){background-color: rgba (0, 0, 0, 0) ; }
+ttable {
+ nth-child(even){background-color: rgba (0, 0, 0, 0) ; }
   background-color: rgba (0, 0, 0, 0);
   width: 100%;
   border: 0 ;
