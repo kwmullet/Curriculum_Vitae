@@ -12,7 +12,7 @@ Albuquerque, NM 87121<br>
 <a href="https://kwm.themullets.net/">https://kwm.themullets.net/</a>
 </h4>
 
-{{ page.date }}
+{{page.date}}
 
   something
   - kj sdfkjh sdfkjh sdf
