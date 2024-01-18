@@ -1,6 +1,7 @@
 # theme: midnight
 title: Curriculum Vitae
-description: last updated {{page.date}}
+description: last updated {{ page.date }}
+
 remote_theme: pages-themes/modernist@v0.2.0
 github:
   is_project_page: false
