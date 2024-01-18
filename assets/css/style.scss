@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+
+<style>
+  ul {
+    list-style-type: none;
+  }
+
+
+
 # header {
 #   display: none !important;
 # }
