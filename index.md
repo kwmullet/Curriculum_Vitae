@@ -18,6 +18,10 @@ Albuquerque, NM 87121<br>
 
 
 ## Publications
+- 1995 Mullet, Kevin W. 19, Internet Teleconferencing: Mbone, CU-SeeMe, and Maven. In The Internet Unleashed. 2nd edition. Unleashed Series. Carmel, IN: Sams.net. 9780672307140<p>
+- 1995 Mullet, Kevin W. 37, Setting up a World-Wide Web Server. In The Internet Unleashed. 2nd edition. Unleashed Series. Carmel, IN: Sams.net. 9780672307140
+- 1994 Mullet, Kevin W. 4, Where’s the Complaint Department? In Tricks of the Internet Gurus, edited by Philip Baczewski, 1st ed, Sams Pub, 1994, pp. 103–30. 978-0-672-30599-3
+
 
 ## Employment
 
