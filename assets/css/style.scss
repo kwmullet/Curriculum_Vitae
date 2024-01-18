@@ -1,25 +1,23 @@
----
----
-
-@import "{{ site.theme }}";
 
 
-<style>
+
+@import {{site.theme}};
+
+
   ul {
     list-style-type: none;
   }
 
 
-
-# header {
-#   display: none !important;
-# }
-# 
-# footer {
-#   display: none !important;
-# }
-# 
-# .btn {
-#   display: none !important;
-# }
-# 
+// header {
+//   display: none !important;
+// }
+// 
+// footer {
+//   display: none !important;
+// }
+// 
+// .btn {
+//   display: none !important;
+// }
+// 
