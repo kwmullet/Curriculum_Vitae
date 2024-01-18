@@ -2,5 +2,7 @@
 title: Curriculum Vitae
 description: Kevin Mullet 2024-01-17T18:31-07:00
 remote_theme: pages-themes/modernist@v0.2.0
-# show_downloads: [ false ]
+github:
+  is_project_page: false
+show_downloads: [ false ]
 #google_analytics: [Your Google Analytics tracking ID]
