@@ -5,7 +5,7 @@
   </style>
 
 <h1>Kevin W. Mullet</h1>
-{{ "now" | date: "%Y-%m-%d %H:%M" }}
+> last updated {{ "now" | date: "%Y-%m-%d %H:%M" }}
 <h4>
 Albuquerque, NM 87121<br>
 (505) 633-6878<br>
@@ -13,7 +13,6 @@ Albuquerque, NM 87121<br>
 <a href="https://kwm.themullets.net/">https://kwm.themullets.net/</a>
 </h4>
 
-{{page.date}}
 
   something
   - kj sdfkjh sdfkjh sdf
