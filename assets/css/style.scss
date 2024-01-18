@@ -8,16 +8,19 @@
     list-style-type: none;
   }
 
+  body {
+  opacity: 1.0 ;
+  color: black ;
+  }
 
-// header {
-//   display: none !important;
-// }
-// 
-// footer {
-//   display: none !important;
-// }
-// 
-// .btn {
-//   display: none !important;
-// }
-// 
+header {
+  display: none !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
